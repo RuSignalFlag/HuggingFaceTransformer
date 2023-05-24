@@ -1,0 +1,4 @@
+torch
+d2l
+transformers
+scikit-learn
